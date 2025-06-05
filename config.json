@@ -1,0 +1,20 @@
+{
+  "datasets": {
+    "brain": {
+      "epochs": 3000
+    },
+    "cd": {
+      "epochs": 1800
+    },
+    "butterfly": {
+      "epochs": 3000
+    },
+    "cartman": {
+      "epochs": 2350
+    },
+    "cryptopunks": {
+      "epochs": 500
+    }
+  }
+}
+
